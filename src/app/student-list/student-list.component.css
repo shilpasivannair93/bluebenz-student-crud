@@ -1,0 +1,61 @@
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.data-table th,
+.data-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.data-table th {
+  background-color: #f2f2f2;
+}
+
+.data-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.student-list-container {
+  padding: 15px;
+}
+
+.list-container {
+  padding: 20px;
+}
+
+.add-student-button {
+  background-color: #0893f0;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.add-student-button:hover {
+  background-color: #2980b9;
+}
+
+.actions-column {
+  width: 150px;
+}
+
+.edit-button,
+.delete-button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.edit-button:hover,
+.delete-button:hover {
+  background-color: #2980b9;
+}

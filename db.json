@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Shilpa",
+      "lastName": "Sivasankaran",
+      "age": 10,
+      "stream": "Science"
+    },
+    {
+      "id": 2,
+      "firstName": "Sachin",
+      "lastName": "Tendulkar",
+      "age": 11,
+      "stream": "Commerce"
+    },
+    {
+      "id": 3,
+      "firstName": "Rahul",
+      "lastName": "Dravid",
+      "age": 12,
+      "stream": "Biology"
+    },
+    {
+      "id": 4,
+      "firstName": "Virat",
+      "lastName": "Kohli",
+      "age": 13,
+      "stream": "Social Science"
+    },
+    {
+      "firstName": "Sulakh",
+      "lastName": "Amban",
+      "stream": "Science",
+      "age": 10,
+      "id": 5
+    }
+  ]
+}
